@@ -1,3 +1,13 @@
+/* INF651 FINAL PROJECT
+*
+*
+* @author:  Nicholas Alexander La Claire
+* Creation Date: 23 APR 2023
+* Last Updated: 26 APR 2023
+*/
+
+
+
 //1 CreateElemWithText function - Done
 function createElemWithText(HTMLElemStrngToCrt = "p", txtContntOfElToCrt = "", classNameifOneNeeded) 
 {
